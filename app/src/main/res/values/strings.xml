@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Drowsiness</string>
+    <string name="face_detection_title">Drowsiness detection</string>
+    <string name="face_detection_description">Detect drowsiness from face with info.</string>
+    <string name="face_detection_url">https://developers.google.com/static/ml-kit/vision/face-detection/images/face_detection2x.png</string>
+
+    <string name="text_recognition_title">History</string>
+    <string name="text_recognition_description">History of records of detection.</string>
+    <string name="text_recognition_url">https://developers.google.com/static/ml-kit/vision/text-recognition/images/text_recognition2x.png</string>
+
+</resources>
